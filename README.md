@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:58a6ff&height=200&section=header&text=Lucky%20Satyawali&fontSize=46&fontColor=e6edf3&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20NLP&descSize=17&descAlignY=60&descColor=9ba7b4" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:58a6ff&height=200&section=header&text=Lucky%20Satyawali&fontSize=46&fontColor=e6edf3&fontAlignY=38&desc=AI%20Engineer&descSize=17&descAlignY=60&descColor=9ba7b4" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+LLM+agents+that+actually+do+things;Learning+RAG+%26+Generative+AI+in+public;Turning+messy+data+into+working+models;Open+to+AI+%2F+ML+Engineer+roles" alt="Typing SVG" />
