@@ -34,23 +34,32 @@ I'm an **AI/ML Engineer** (B.Tech in AI & ML, 2026) who enjoys building things w
 
 <div align="center">
 
-**Languages & Data**
+<h4>Languages & Data</h4>
 
-<img src="https://skillicons.dev/icons?i=py,mysql,pandas,numpy&theme=dark" alt="languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" alt="languages" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff" alt="NumPy"/>
+</p>
 
-**ML / Deep Learning / GenAI**
+<h4>ML / Deep Learning / GenAI</h4>
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ml" />
-<br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=58a6ff" alt="LangChain"/>
-<img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=white" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/BERT%20%26%20Transformers-0d1117?style=for-the-badge&logoColor=white" alt="Transformers"/>
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=white" alt="RAG"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ml" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=58a6ff" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/BERT%20%26%20Transformers-0d1117?style=for-the-badge&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=white" alt="RAG"/>
+</p>
 
-**Web & Tools**
+<h4>Web & Tools</h4>
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,git,github,aws,vscode&theme=dark" alt="tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,git,github,aws,vscode&theme=dark" alt="tools" />
+</p>
 
 </div>
 
