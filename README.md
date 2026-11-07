@@ -139,7 +139,17 @@ Cleaned and analyzed large multi-source survey datasets in Python, SQL and Excel
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luckystw&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=9ba7b4&sideLabels=9ba7b4&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&v=2" alt="GitHub streak" />
+<img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+
+<br/>
+
+<img height="180" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+<img height="180" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=luckystw&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=9ba7b4&sideLabels=9ba7b4&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="GitHub streak" />
 
 </div>
 
