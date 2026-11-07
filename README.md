@@ -160,7 +160,6 @@ Cleaned and analyzed large multi-source survey datasets in Python, SQL and Excel
 
 <div align="center">
 
-*"Make it work, make it right, then make it smart."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f3a5f,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
 
