@@ -1,7 +1,7 @@
-<!-- Header banner -->
+<!-- Header banner (local SVG, no external service) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:58a6ff&height=200&section=header&text=Lucky%20Satyawali&fontSize=46&fontColor=e6edf3&fontAlignY=38&desc=AI%20Engineer&descSize=17&descAlignY=60&descColor=9ba7b4" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="Lucky Satyawali, AI Engineer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+LLM+agents+that+actually+do+things;Learning+RAG+%26+Generative+AI+in+public;Turning+messy+data+into+working+models;Open+to+AI+%2F+ML+Engineer+roles" alt="Typing SVG" />
@@ -168,7 +168,6 @@ Cleaned and analyzed large multi-source survey datasets in Python, SQL and Excel
 
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f3a5f,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
 
 </div>
