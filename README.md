@@ -131,7 +131,11 @@ I'm an **AI/ML Engineer** (B.Tech in AI & ML, 2026) who enjoys building things w
 ## 💼 Experience
 
 **Research Analyst, Secondary Research** · *Kantar, Gurugram* · Mar 2026 – Oct 2026
-Cleaned and analyzed large multi-source survey datasets in Python, SQL and Excel, studied public sentiment and demographic patterns, and built Power BI dashboards and automated reports for stakeholders.
+
+- Conducted ongoing secondary research on political developments in India and Australia, tracking parliamentary proceedings, legislative activity, and policy updates on a regular basis
+- Maintained and continuously updated a centralized research database/software platform, ensuring accurate, timely, and consistent political data for stakeholders
+- Cleaned and analyzed large multi-source survey datasets using Python, SQL, and Excel to study public sentiment and demographic patterns
+- Built Power BI dashboards and automated reports to communicate insights to stakeholders
 
 <br/>
 
