@@ -135,16 +135,6 @@ Cleaned and analyzed large multi-source survey datasets in Python, SQL and Excel
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=luckystw&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=9ba7b4&sideLabels=9ba7b4&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
 ## 🎓 Education & Certifications
 
 - **B.Tech, Artificial Intelligence & Machine Learning**, DPG Institute of Technology and Management (2022 – 2026)
