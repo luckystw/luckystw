@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm an **AI/ML Engineer** (B.Tech in AI & ML, 2026) who enjoys building things with language models, from multi-agent systems to classic NLP pipelines. I've worked with real-world survey data at **Kantar** as a research analyst, so I care about clean data and results that hold up outside a notebook.
+I’m an AI/ML Engineer (B.Tech in AI & ML, 2026) who enjoys building with language models, from multi-agent systems to classic NLP pipelines. Before this, I worked as a Research Analyst at Kantar IMRB on political research, where I maintained and updated records of parliament and state ministers across India and Australia. That work taught me to care about data accuracy, source verification, and keeping datasets current, so I build things that hold up outside a notebook.
 
 - 🔭 Building: **LLM agents** and **RAG** applications
 - 🌱 Sharpening: **Python · RAG · Generative AI · LLMs · NLP · Deep Learning**
