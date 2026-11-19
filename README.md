@@ -141,7 +141,10 @@ I’m an AI/ML Engineer (B.Tech in AI & ML, 2026) who enjoys building with langu
 
 ## 🎓 Education & Certifications
 
-
+- **B.Tech, Artificial Intelligence & Machine Learning**, DPG Institute of Technology and Management (2022 – 2026)
+- Python for Data Science, **IBM**
+- AWS Knowledge: Cloud Essentials, **Amazon Web Services**
+- AWS Cloud Clubs Machine Learning Camper, **Amazon Web Services**
 
 <br/>
 
